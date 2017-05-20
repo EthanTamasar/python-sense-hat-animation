@@ -26,3 +26,5 @@ for x in range(5):
     ect.square(image, [1,1], [6,1], [6,6],[1,6],[randint(0,255),randint(0,255),randint(0,255)],.01)
     ect.square(image, [2,2], [5,2], [5,5],[2,5],[randint(0,255),randint(0,255),randint(0,255)],.01
 ```
+
+# It's easy and there's much more!
