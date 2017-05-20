@@ -5,7 +5,7 @@ Functions for animating; drawing lines, circles, triangles, and squares
 
 
 
-# Animate a ball moving on the screen 
+# It's easy. Animate a ball moving on the screen 
 
  
 ```python
