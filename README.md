@@ -3,7 +3,7 @@ Raspberry Pi Sense Hat animation library
 
 Functions for animating; drawing lines, circles, triangles, and squares
 
-# draw moving circles
+# draw moving circles and more
 
 ect.circle(image,(3,4), 3, w, 1)
 
