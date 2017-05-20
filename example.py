@@ -1,5 +1,5 @@
 '''
-Examples using Sense HAT graphic functions; circle, triangle, line, and square functions.
+Examples using Sense HAT animations: circle, triangle, line, and square functions.
 
 By Ethan Tamasar, 5/15/2017
 '''
