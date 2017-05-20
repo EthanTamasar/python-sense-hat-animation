@@ -1,5 +1,5 @@
 '''
-Sense HAT graphic functions: circle, triangle, line, and square functions.
+Sense HAT graphic animations: circle, triangle, line, and square functions.
 
 By Ethan Tamasar, 5/15/2017
 '''
