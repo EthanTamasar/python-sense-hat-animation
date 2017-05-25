@@ -28,18 +28,17 @@ for x in range(5):
 ```
 
 
-'''python
+```python
 for y in range(0,7):
-    print(y%2)
     if (y%2 == 0):
         ect.line(image,[0,y], [7,y], b, 1)
 
 
 for x in range(0,7):
-    print(x%2)
     if (x%2 == 0):
         ect.line(image,[x,0], [x,7], b, 1)
-'''
+        
+```
 
 
 
