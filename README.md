@@ -27,7 +27,7 @@ for x in range(5):
     ect.square(image, [2,2], [5,2], [5,5],[2,5],[randint(0,255),randint(0,255),randint(0,255)],.01
 ```
 
-
+# Checker board
 ```python
 for y in range(0,7):
     if (y%2 == 0):
